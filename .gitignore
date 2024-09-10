@@ -1,0 +1,53 @@
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+
+# Derleme dosyaları
+*.class
+*.jar
+*.war
+*.ear
+
+# Python dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# JavaScript Node.js dosyaları
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Java IDE dosyaları
+*.iml
+.idea/
+target/
+out/
+
+# VS Code dosyaları
+.vscode/
+
+# Çalıştırılabilir dosyalar
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Geçici dosyalar
+*.tmp
+*.swp
+
+# Proje bağımlılıkları
+venv/
+env/
+.Python
+
+# Git tarafından izlenmeyen diğer dosyalar
+*.bak
+*.old
+*.orig
+*.lock
