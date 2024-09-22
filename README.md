@@ -9,20 +9,20 @@ Yazılım geliştirme yolculuğum, problemleri çözme ve sıfırdan bir şeyler
 
 Bu blogda, öğrendiklerimi ve deneyinlerimi paylaştığım çe çeşitli konulara odaklanıyorum. İşte bloguma bulabileceğiniz bazı konular:
 
-- 📱**Mobil uygulama Geliştirme**
-- 💻**Java ve Python programlama**
-- 🌐**API Entegrasyonları ve Backend Teknolojileri**
-- 🎨**Kullanıcı Arayüzü (UI) ve Kullanıcı Deneyimi (UX) tasarımı**
-- 📊**Veri Bilimi ve Yapay Zeka (AI)**
+- 📱 **Mobil uygulama Geliştirme**
+- 💻 **Java ve Python programlama**
+- 🌐 **API Entegrasyonları ve Backend Teknolojileri**
+- 🎨 **Kullanıcı Arayüzü (UI) ve Kullanıcı Deneyimi (UX) tasarımı**
+- 📊 **Veri Bilimi ve Yapay Zeka (AI)**
 
   ## 🚀 Projelerim
 
 Yazılım yazının geliştirme sürecinde öğrendiğim bilgileri pratiğe döktüğüm bazı projelerimi aşağıda bulabilirsiniz. Her biri, üzerinde çalıştığım konulara dair önemli adımlar içeriyor. 
 
--**Java Not Defteri** - Basit bir metin düzenleyici uygulaması. 
--**Fahrenheit to Celsius Çevirici** -Python ile sıcaklık birimlerine dönüştüren  bir araç. 
--**Sayı Tahmin Oyunu** -Java ile geliştirdiği, kullanıcıların sayıyı tahmin etmeye  çalıştığı eğlenceli bir oyun. 
--**Rastgele Sayı Üreticisi** - Rastgele sayı üreten basit bir Java programıdır. 
+- **Java Not Defteri** - Basit bir metin düzenleyici uygulaması. 
+- **Fahrenheit to Celsius Çevirici** -Python ile sıcaklık birimlerine dönüştüren  bir araç. 
+- **Sayı Tahmin Oyunu** -Java ile geliştirdiği, kullanıcıların sayıyı tahmin etmeye  çalıştığı eğlenceli bir oyun. 
+- **Rastgele Sayı Üreticisi** - Rastgele sayı üreten basit bir Java programıdır. 
 
 ## 🎯 Hedeflerim
 Kariyerimde ilerlerken belirlediğim bazı hedeflerim var. Şu anda özellikle **mobil uygulama geliştirme** ve **veri bilimi** alanlarında ulaşmayı hedefliyorum. Ayrıca **açık Kaynak projelere** katkıda bulunarak hem topluluğa destek vermek hem de kendimi daha da geliştirmek istiyorum. 
@@ -32,8 +32,8 @@ Kariyerimde ilerlerken belirlediğim bazı hedeflerim var. Şu anda özellikle *
 ## 📫 Bana Ulaşın
 Eğer benimle iletişim kurmak isterseniz, aşağıdaki sosyal medya ve platformlardan bana ulaşabilirsiniz:
 
--**GitHub**:[bushrasc](https://github.com/bushrasc)
--**LinkedIn**:[bushrasc](https://www.linkedin.com/in/bushrasc/)
+- **GitHub**:[bushrasc](https://github.com/bushrasc)
+- **LinkedIn**:[bushrasc](https://www.linkedin.com/in/bushrasc/)
 
 ## 📄 Lisans
 
